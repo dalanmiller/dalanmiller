@@ -1,3 +1,5 @@
+![](https://dalan.imgix.net/sand-wide.webp?auto=format,compress)
+
 ### Hi there 👋🏻 — I'm Daniel
 
 I currently work on sales engineering* at <a href="/stripe">Stripe</a> out of the office in Melbourne 🇦🇺.

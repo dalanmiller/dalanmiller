@@ -1,4 +1,4 @@
-![](https://dalan.imgix.net/sand-wide.webp?auto=format,compress)
+![](https://dalan.imgix.net/sand-wide.webp?auto=format,compress&duotone=7E7E7E,EBE8E8&duotone-alpha=100)
 
 ### Hi there 👋🏻 — I'm Daniel
 

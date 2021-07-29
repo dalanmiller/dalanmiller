@@ -1,4 +1,4 @@
-### Hi there 👋🏻 — I'm Daniel 
+### Hi there 👋🏻 — I'm [Daniel](https://dalan.website)
 
 I currently work on sales engineering* at <a href="/stripe">Stripe</a> out of the office in Melbourne 🇦🇺.
 

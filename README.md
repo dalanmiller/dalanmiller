@@ -1,6 +1,6 @@
 ### Hi there 👋🏻 — I'm Daniel 
 
-I currently work on sales engineering* <a href="/stripe">Stripe</a>.
+I currently work on sales engineering* at <a href="/stripe">Stripe</a> out of the office in Melbourne 🇦🇺.
 
 _* or whatever it's currently called_
 

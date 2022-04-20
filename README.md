@@ -2,9 +2,7 @@
 
 ### Hi there 👋🏻 — I'm Daniel
 
-I currently work on sales engineering* at <a href="https://stripe.com">Stripe</a> in Melbourne 🇦🇺.
-
-_* or whatever it's currently called_
+I am currently Head of Solutions Architecture at <a href="https://stripe.com">Stripe</a> in Melbourne 🇦🇺.
 
 <!--
 **dalanmiller/dalanmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

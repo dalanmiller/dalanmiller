@@ -10,4 +10,4 @@ I am currently Head of Solutions Architecture at <a href="https://stripe.com">St
 
 
 <!-- hachyderm backlink -->
-<a rel="me" href="https://hachyderm.io/@dalan" />
+<a rel="me" href="https://hachyderm.io/@dalan"></a>

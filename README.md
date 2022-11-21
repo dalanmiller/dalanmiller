@@ -9,4 +9,5 @@ I am currently Head of Solutions Architecture at <a href="https://stripe.com">St
 - ⌨️ - [blog](https://blog.dalanmiller.com)
 
 
-
+<!-- hachyderm backlink -->
+<a rel="me" href="https://hachyderm.io/@dalan" />
